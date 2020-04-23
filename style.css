@@ -9,7 +9,3 @@
 .field__item:last-child {
   margin-bottom: 0;
 }
-
-.question-text {
-  display: inline;
-}
